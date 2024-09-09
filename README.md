@@ -2,7 +2,7 @@
 <h3 align="center">Web3 enthusiast | Third-year undergrad with a passion for decentralized technologies. </h3>
 
 # 💫 About Me:
-🌱 I’m currently learning Solidity.<br><br>💬 Ask me about Blockchain, Python, and Networking.<br><br>📫 Reach me at saniyaladanavar@gmail.com.<br>
+🌱 I’m currently learning Solidity.<br><br>💬 Ask me about Blockchain, Python, and Networking.<br><br>📫 Reach me at saniyaladanavar123@gmail.com.<br>
 
 
 ## 🌐 Socials:
