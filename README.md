@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Saniya </h1>
-<h3 align="center">Web3 enthusiast | Third-year undergrad with a passion for decentralized technologies. </h3>
+<h3 align="center">Web3 enthusiast | Final year undergrad with a passion for decentralized technologies. </h3>
 
 # 💫 About Me:
 --> The tech personality in me is deeply rooted.
