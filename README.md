@@ -2,7 +2,21 @@
 <h3 align="center">Web3 enthusiast | Third-year undergrad with a passion for decentralized technologies. </h3>
 
 # 💫 About Me:
-🌱 I’m currently learning Solidity.<br><br>💬 Ask me about Blockchain, Python, and Networking.<br><br>📫 Reach me at saniyaladanavar123@gmail.com.<br>
+--> The tech personality in me is deeply rooted.
+
+I specialise in AI/ML , Data Analytics , Business intelligence analytics , Blockchain by building projects using Python , SQL , Numpy , scikit-learn, TensorFlow, Supervised learning , Neural networks , Unsupervised learning ,Deep reinforcement learning, Data analysis & ecosystems, Analytical thinking, Spreadsheets, Data visualization tools and have done internships in the same.
+
+--> What I can do 
+
+- Build and deploy predictive ML models for real business problems
+- Analyse data to extract actionable insights
+- Create clear data visualisations for decision-making
+- Develop recommendation systems to boost user engagement
+- Detect anomalies to improve operational efficiency
+- Design AI solutions with strategic impact
+- Combine technical skills with analytical thinking for business growth
+- Communicate technical findings in simple, clear language
+- Deliver results with a blend of tech expertise and practical strategy<br><br>💬 Ask me about Blockchain, Python, and Networking.<br><br>📫 Reach me at saniyaladanavar123@gmail.com.<br>
 
 
 ## 🌐 Socials:
